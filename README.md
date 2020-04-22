@@ -1,8 +1,8 @@
 
-##Ehsan Arabnezhad
+## Ehsan Arabnezhad
 
 
-# Learn-to-lay-Tennis
+# Learn-to-Play-Tennis
 3rd Project of Udacity deep reinforcement learning for multi-agent to play tennis 
 
 </br>
@@ -23,7 +23,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 </br>
 
 ## Instructions
-The project consists of 5 files:
+The project consists of 6 files:
 * Learn-Tennis.ipynb - Run this file in Jupyter Notebook to start the project
 * agent.py - The DDPG Agent class, the noise class, the replay buffer class
 * model.py - The Actor and Critic models
