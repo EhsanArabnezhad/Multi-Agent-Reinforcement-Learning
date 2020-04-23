@@ -19,6 +19,31 @@ The task is episodic, and in order to solve the environment, your agents must ge
 
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
+## Dependencies
+
+### Install deep reinforcement learning repository
+1. Clone [deep reinforcement learning repository](https://github.com/udacity/deep-reinforcement-learning)
+2. Fallow the instructions to install necessary [dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies)
+
+### Download the Unity Environment
+1. Download environment for your system into this repository root
+
+* Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
+
+* Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+
+* Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
+
+* Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
+
+* Headless: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux_NoVis.zip)
+
+2. Unzip (or decompress) the archive
+
+### Run the project
+1. Start the jupyter server
+2. Open the Learn-Tennis.ipynb notebook
+3. You should be able to run all the cells
 
 </br>
 
